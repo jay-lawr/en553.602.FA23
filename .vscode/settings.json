@@ -1,0 +1,4 @@
+{
+  "python.analysis.extraPaths": ["./Box-Office-Mojo-API"],
+  "r.lsp.promptToInstall": false
+}
